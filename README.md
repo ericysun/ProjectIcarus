@@ -1,1 +1,1 @@
-# ProjectIcarus
+# Project Icarus
